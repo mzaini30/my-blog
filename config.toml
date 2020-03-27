@@ -1,4 +1,4 @@
-baseurl = "https://mzaini30.netlify.com/"
+baseurl = "https://mzaini30.com/"
 title = "Zen"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
