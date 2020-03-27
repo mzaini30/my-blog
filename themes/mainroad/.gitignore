@@ -17,3 +17,5 @@ Thumbs.db
 .AppleDouble
 .LSOverride
 Desktop.ini
+
+package-lock.json
