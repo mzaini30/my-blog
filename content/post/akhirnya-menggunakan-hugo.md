@@ -5,8 +5,6 @@ date: "2020-03-27T15:00:15+08:00"
 thumbnail: "https://www.stiffdesign.co.uk/media/template/mobile-website-design-stratford.jpg"
 categories:
   - "blog"
-  - "hugo"
-  - "tools"
 tags:
   - "hugo"
   - "tld"
