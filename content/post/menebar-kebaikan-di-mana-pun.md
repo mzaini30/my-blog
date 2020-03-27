@@ -34,6 +34,8 @@ Buat apa sih kita mengumpulkan semua itu?
 
 ## Bagaimana caranya menebar kebaikan?
 
+![](https://themananddaisies.files.wordpress.com/2013/01/all_that_i_have_to_give___by_surrealiseme.jpg)
+
 Menebar kebaikan bisa kamu lakukan dengan banyak cara; bisa dengan sedekah, zakat, infaq, membantu mencarikan pekerjaan bagi pengangguran, memberi nasehat, mencegah orang lain berbuat kemungkaran, membuat aplikasi, website, tools-tools bermanfaat lainnya, juga tentu saja mengedukasi orang lain dari bahaya riba.
 
 Kita semua bisa berbuat kebaikan. Beneran deh.
@@ -67,6 +69,8 @@ Dan tentu saja, ada beberapa hal yang perlu kita perhatikan dalam berbagi kebaik
 Kalau empat hal di atas kita lakukan, insya Allah, kita akan berusaha untuk memberikan yang terbaik lagi.
 
 ## Di mana platform terbaik untuk berbagi kebaikan?
+
+![](https://apriliasantoso.files.wordpress.com/2019/04/dompet-dhuafa-2.png?w=820)
 
 Kita bisa mencoba berbagi di [Dompet Dhuafa](https://donasi.dompetdhuafa.org/). Sebagai platform yang sudah lama berjibaku dengan pelayanan sosial di bidang pendanaan, Dompet Dhuafa bisa dikatakan sebagai sebuah platform yang terpecaya dalam kita memberikan donasi. Nggak usah khawatir bahwa donasi yang kamu berikan nggak akan sampai, karena Dompet Dhuafa selalu memberikan laporan sebagai pertanggung jawaban atas dana yang telah diamanahkan kepada mereka.
 
