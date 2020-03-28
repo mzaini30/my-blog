@@ -48,20 +48,20 @@ pygmentsStyle = "monokai"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "mzaini30"
-  twitter = "mzaini30"
-  instagram = "mzaini30"
+  # facebook = "mzaini30"
+  # twitter = "mzaini30"
+  # instagram = "mzaini30"
   # linkedin = "username"
-  telegram = "mzaini30a"
-  github = "mzaini30"
-  gitlab = "mzaini30"
-  bitbucket = "mzaini30"
-  email = "muhzaini30@gmail.com"
+  # telegram = "mzaini30a"
+  # github = "mzaini30"
+  # gitlab = "mzaini30"
+  # bitbucket = "mzaini30"
+  # email = "muhzaini30@gmail.com"
 
 # Custom social links
 [[Params.widgets.social.custom]]
-  title = "Asciinema"
-  url = "https://asciinema.org/~mzaini30"
+  title = "Portofolio"
+  url = "https://mzaini30.js.org"
   icon = "svg/instagram.svg" # Optional. Path relative to "layouts/partials"
 
 # [[Params.widgets.social.custom]]
