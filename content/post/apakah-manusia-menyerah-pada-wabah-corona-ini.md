@@ -5,9 +5,6 @@ date: "2020-03-27T15:19:34+08:00"
 thumbnail: "https://s.kaskus.id/images/2015/07/14/6414736_20150714040218.jpg"
 categories:
   - "psikologi"
-tags:
-  - "analisa"
-  - "etos kerja"
 ---
 
 Kehadiran virus Corona ini membuat manusia terpecah menjadi dua sisi. Satu sisi adalah manusia yang semangat, dan sisi lainnya adalah manusia yang menyerah.

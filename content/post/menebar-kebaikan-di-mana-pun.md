@@ -5,9 +5,6 @@ date: "2020-03-27T17:00:05+08:00"
 thumbnail: "https://media.salon.com/2013/11/present.jpg"
 categories:
   - "psikologi"
-tags:
-  - "zakat"
-  - "kebaikan berbagi"
 ---
 
 Apakah kamu adalah orang yang selalu hitung-hitungan kalau ingin berbagi? Apakah kamu selalu males buat berbagi? Apakah menurutmu, berbagi itu menghilangkan kekayaan? Mungkin, mindsetmu kali ini perlu diubah karena sebenarnya berbagi itu adalah sesuatu yang kita butuhkan.

@@ -5,11 +5,6 @@ date: "2020-03-27T16:15:24+08:00"
 thumbnail: "https://cdn2.tstatic.net/tribunnews/foto/bank/images/kisah-viral-perempuan-derita-kelelahan-kronis.jpg"
 categories:
   - "psikologi"
-tags:
-  - "fenomena"
-  - "corona"
-  - "rebahan"
-  - "menikmati hidup"
 ---
 
 Bagi orang yang suka rebahan, inilah saatnya untuk menyelamatkan umat manusia. Yap, hanya dengan rebahan. Bayangkan coba.

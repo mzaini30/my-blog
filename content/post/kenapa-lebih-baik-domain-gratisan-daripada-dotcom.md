@@ -5,11 +5,6 @@ date: "2020-03-23T00:12:41Z"
 thumbnail: "https://www.webdevelopersnotes.com/wp-content/uploads/alternatives-to-dot-com-domain-name-extension.png"
 categories:
   - "teknologi"
-tags:
-  - "wordpress"
-  - "blogspot"
-  - "tld"
-  - "dotcom"
 ---
 
 Memang sih kalau domain dotcom dan kawan-kawannya itu membuat blog kita terlihat keren, profesional, dan gampang dapet job.

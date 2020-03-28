@@ -5,12 +5,6 @@ date: "2020-03-19T22:49:01+08:00"
 thumbnail: "https://gohugo.io/img/hugo-logo.png"
 categories:
   - "hugo"
-tags:
-  - "cari"
-  - "fitur"
-  - "tools"
-  - "hugo"
-  - "trik"
 ---
 
 ## config.toml

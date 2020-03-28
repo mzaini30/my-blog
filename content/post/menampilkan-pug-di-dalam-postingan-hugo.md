@@ -5,9 +5,6 @@ date: "2020-03-22T13:07:54Z"
 thumbnail: "https://avatars2.githubusercontent.com/u/9338635?v=3&s=280"
 categories:
   - "hugo"
-tags:
-  - "fitur"
-  - "hugo"
 ---
 
 Pastikan dulu blogmu yang Hugo sudah memanggil jQuery di `<head></head>`.

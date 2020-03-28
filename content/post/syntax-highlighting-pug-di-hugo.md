@@ -5,10 +5,6 @@ date: "2020-03-23T22:34:48Z"
 thumbnail: "https://html5gamedevelopment.com/wp-content/uploads/2017/11/PugJS-and-HandlebarsJS-featured.png"
 categories:
   - "hugo"
-tags:
-  - "analisa"
-  - "hugo"
-  - "javascript"
 ---
 
 Secara default, Hugo nggak mendukung syntax highlighting untuk Pug. Contohnya aja seperti di bawah ini:

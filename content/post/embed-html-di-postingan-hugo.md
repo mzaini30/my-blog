@@ -5,8 +5,6 @@ date: "2020-03-22T14:07:12Z"
 thumbnail: "https://cdn1.iconfinder.com/data/icons/hawcons/32/700034-icon-76-document-file-html-512.png"
 categories:
   - "hugo"
-tags:
-  - "hugo"
 ---
 
 Buat kode berikut di `/layouts/shortcodes/html.html`:

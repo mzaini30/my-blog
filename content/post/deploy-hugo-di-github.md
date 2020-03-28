@@ -5,10 +5,6 @@ date: "2020-03-28T11:59:43+08:00"
 thumbnail: "https://png.icons8.com/color/1600/github"
 categories:
   - "hugo"
-tags:
-  - "github"
-  - "deploy"
-  - "hugo"
 ---
 
 Di repositori kita, buat suatu Action.

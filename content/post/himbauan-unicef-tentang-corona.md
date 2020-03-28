@@ -5,11 +5,6 @@ date: "2020-03-20T22:30:54Z"
 thumbnail: "https://i.ytimg.com/vi/wfa7gXxVGc4/hqdefault.jpg"
 categories:
   - "kesehatan"
-tags:
-  - "analisa"
-  - "fenomena"
-  - "unicef"
-  - "kesehatan"
 ---
 
 Berikut ini langkah-langkah mencegah virus Corona dari Unicef yang bisa langsung kita terapkan.

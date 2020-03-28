@@ -5,8 +5,6 @@ date: "2020-03-21T23:57:38Z"
 thumbnail: "https://cdn.wccftech.com/wp-content/uploads/2016/10/hacker.jpg"
 categories:
   - "css"
-tags:
-  - "bootstrap"
 ---
 
 ## Kode CSS

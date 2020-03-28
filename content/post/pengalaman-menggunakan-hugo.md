@@ -5,10 +5,6 @@ date: "2020-03-19T22:14:29Z"
 thumbnail: "https://gohugo.io/images/gohugoio-card.png"
 categories:
   - "hugo"
-tags:
-  - "hugo"
-  - "tools"
-  - "fitur"
 ---
 
 ## Lebih cepat

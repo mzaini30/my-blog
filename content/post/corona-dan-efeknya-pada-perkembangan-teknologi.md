@@ -5,10 +5,6 @@ date: "2020-03-20T01:30:24Z"
 thumbnail: "https://www.nextbigfuture.com/wp-content/uploads/2020/01/HERO_coronavirus-730x430.jpg"
 categories:
   - "teknologi"
-tags:
-  - "analisa"
-  - "fenomena"
-  - "perkembangan teknologi"
 ---
 
 Corona virus atau yang terkenal dengan nama COVID-19 telah ditetapkan sebagai pandemi oleh WHO. Itu pertanda, bahwa masing-masing negara harus menyiapkan dirinya menghadapi berbagai kesulitan yang akan datang karena kehadiran virus ini.

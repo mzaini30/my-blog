@@ -5,11 +5,6 @@ date: "2020-03-20T05:49:46Z"
 thumbnail: "https://2.bp.blogspot.com/-i1d-jCkmwXM/WDUCZ7nbeDI/AAAAAAAARgw/NCnwNUOEHtkCcf4bSR5Nhe6wg_MinlCYACLcB/s1600/kata-kata-semangat-blog-motivasi-hidup-shueqry-1-915x931.png"
 categories:
   - "psikologi"
-tags:
-  - "fenomena"
-  - "etos kerja"
-  - "kedisiplinan"
-  - "psikologi"
 ---
 
 Berbicara tentang etos kerja, berarti kita juga membahas tentang kedisiplinan, ketangguhan, efikasi diri, dan motivasi. Dan tentu saja satu variabel yang tak pernah terlupa:

@@ -5,11 +5,6 @@ date: "2020-03-20T07:57:23+08:00"
 thumbnail: "https://cdn2.tstatic.net/wartakota/foto/bank/images/covid19goid.jpg"
 categories:
   - "website"
-tags:
-  - "fitur"
-  - "tools"
-  - "website"
-  - "analisa"
 ---
 
 Seperti yang sudah kita tau, bahwa pemerintah meluncurkan [website](https://www.covid19.go.id/) yang bisa kita gunakan untuk mencari info tentang Corona Virus. Namun, apa aja sih teknologi yang membentuk website tersebut?

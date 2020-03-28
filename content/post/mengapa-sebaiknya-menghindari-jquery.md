@@ -5,11 +5,6 @@ date: "2020-03-22T21:36:58Z"
 thumbnail: "https://www.exuberantsolutions.com/course_logo/jquery-icon.png"
 categories:
   - "teknologi"
-tags:
-  - "tools"
-  - "website"
-  - "javascript"
-  - "fitur"
 ---
 
 Nggak bisa dipungkiri memang, kehadiran jQuery memudahkan umat programmer dalam membuat behavior website dengan lebih cepat. Misalnya aja, kita ingin membuat element click. Kalau di Javascript biasa, atau biasa disebut dengan Vanilla JS, kodenya seperti ini:

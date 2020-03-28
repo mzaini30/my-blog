@@ -5,10 +5,6 @@ date: "2020-03-21T06:06:29Z"
 thumbnail: "https://www.egrappler.com/wp-content/uploads/2017/07/PHP.jpg"
 categories:
   - "teknologi"
-tags:
-  - "analisa"
-  - "tools"
-  - "website"
 ---
 
 ## Persiapan

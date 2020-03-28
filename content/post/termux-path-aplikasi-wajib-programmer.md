@@ -5,10 +5,6 @@ date: "2020-03-21T07:16:10Z"
 thumbnail: "https://apk-dl.com/detail/image/com.termux.boot-w250.png"
 categories:
   - "teknologi"
-tags:
-  - "tools"
-  - "hacking"
-  - "termux"
 ---
 
 Terkadang kita perlu mengetikkan perintah banyak baris di Termux, seperti kode di bawah ini yang fungsinya adalah untuk upload dengan Git:

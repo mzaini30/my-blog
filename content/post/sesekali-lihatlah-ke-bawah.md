@@ -5,10 +5,6 @@ date: "2020-03-28T21:16:17+08:00"
 thumbnail: "https://zforzulham.files.wordpress.com/2015/01/renungan.jpg"
 categories:
   - "psikologi"
-tags:
-  - "kehidupan"
-  - "renungan"
-  - "life"
 ---
 
 Apakah tidak lelah selalu melihat ke atas?

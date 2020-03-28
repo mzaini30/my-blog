@@ -5,12 +5,6 @@ date: "2020-03-20T21:43:27+08:00"
 thumbnail: "https://i.ytimg.com/vi/BrNQ0XixAw0/hqdefault.jpg"
 categories:
   - "website"
-tags:
-  - "analisa"
-  - "tools"
-  - "website"
-  - "css"
-  - "javascript"
 ---
 
 ## Kode CSS
