@@ -4,7 +4,7 @@ description: "Mengapa ada yang mengatakan bahwa orang Indonesia memiliki etos ke
 date: "2020-03-20T05:49:46Z"
 thumbnail: "https://2.bp.blogspot.com/-i1d-jCkmwXM/WDUCZ7nbeDI/AAAAAAAARgw/NCnwNUOEHtkCcf4bSR5Nhe6wg_MinlCYACLcB/s1600/kata-kata-semangat-blog-motivasi-hidup-shueqry-1-915x931.png"
 categories:
-  - "semangat"
+  - "psikologi"
 tags:
   - "fenomena"
   - "etos kerja"

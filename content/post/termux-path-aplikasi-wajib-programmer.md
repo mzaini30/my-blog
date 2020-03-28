@@ -4,7 +4,7 @@ description: "Tools yang cocok banget buat yang koding lewat HP"
 date: "2020-03-21T07:16:10Z"
 thumbnail: "https://apk-dl.com/detail/image/com.termux.boot-w250.png"
 categories:
-  - "tools"
+  - "teknologi"
 tags:
   - "tools"
   - "hacking"

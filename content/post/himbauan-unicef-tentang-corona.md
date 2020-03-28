@@ -4,7 +4,7 @@ description: "Langkah-langkah jitu yang bisa kita gunakan sebagai upaya preventi
 date: "2020-03-20T22:30:54Z"
 thumbnail: "https://i.ytimg.com/vi/wfa7gXxVGc4/hqdefault.jpg"
 categories:
-  - "fenomena"
+  - "kesehatan"
 tags:
   - "analisa"
   - "fenomena"

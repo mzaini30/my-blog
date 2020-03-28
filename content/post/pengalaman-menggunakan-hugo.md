@@ -4,7 +4,7 @@ description: "Kisahnya ni pengalaman ketika menggunakan sebuah static site gener
 date: "2020-03-19T22:14:29Z"
 thumbnail: "https://gohugo.io/images/gohugoio-card.png"
 categories:
-  - "tools"
+  - "hugo"
 tags:
   - "hugo"
   - "tools"

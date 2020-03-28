@@ -4,7 +4,7 @@ description: "Berikut adalah teknologi-teknologi yang membentuk situs Covid19"
 date: "2020-03-20T07:57:23+08:00"
 thumbnail: "https://cdn2.tstatic.net/wartakota/foto/bank/images/covid19goid.jpg"
 categories:
-  - "tools"
+  - "website"
 tags:
   - "fitur"
   - "tools"

@@ -4,7 +4,7 @@ description: "Detail-detail yang diubah untuk memperbaiki situs Arsilogi"
 date: "2020-03-20T21:43:27+08:00"
 thumbnail: "https://i.ytimg.com/vi/BrNQ0XixAw0/hqdefault.jpg"
 categories:
-  - "bongkar website"
+  - "website"
 tags:
   - "analisa"
   - "tools"

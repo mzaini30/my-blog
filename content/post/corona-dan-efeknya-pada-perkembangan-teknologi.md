@@ -4,7 +4,7 @@ description: "Bagaimana bisa sebuah pandemi justru meningkatkan kemajuan teknolo
 date: "2020-03-20T01:30:24Z"
 thumbnail: "https://www.nextbigfuture.com/wp-content/uploads/2020/01/HERO_coronavirus-730x430.jpg"
 categories:
-  - "fenomena"
+  - "teknologi"
 tags:
   - "analisa"
   - "fenomena"

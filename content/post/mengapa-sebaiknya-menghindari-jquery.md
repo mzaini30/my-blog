@@ -4,7 +4,7 @@ description: "Kenapa ya? Padahal kan enak banget kalau pakai jQuery"
 date: "2020-03-22T21:36:58Z"
 thumbnail: "https://www.exuberantsolutions.com/course_logo/jquery-icon.png"
 categories:
-  - "tools"
+  - "teknologi"
 tags:
   - "tools"
   - "website"

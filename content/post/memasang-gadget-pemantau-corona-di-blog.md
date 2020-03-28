@@ -4,7 +4,7 @@ description: "Pantau Corona di blog"
 date: "2020-03-22T23:59:58Z"
 thumbnail: "https://www.china-briefing.com/news/wp-content/uploads/2020/02/How-contagious-is-the-coronavirus.jpg"
 categories:
-  - "blog"
+  - "teknologi"
 tags:
   - "blogger"
   - "tools"

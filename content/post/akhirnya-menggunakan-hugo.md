@@ -4,7 +4,7 @@ description: "Akhirnya aku pakai Hugo juga untuk blog ini"
 date: "2020-03-27T15:00:15+08:00"
 thumbnail: "https://www.stiffdesign.co.uk/media/template/mobile-website-design-stratford.jpg"
 categories:
-  - "blog"
+  - "hugo"
 tags:
   - "hugo"
   - "tld"

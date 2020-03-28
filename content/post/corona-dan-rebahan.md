@@ -4,7 +4,7 @@ description: "Fenomena Corona dan manusia-manusia yang suka rebahan"
 date: "2020-03-27T16:15:24+08:00"
 thumbnail: "https://cdn2.tstatic.net/tribunnews/foto/bank/images/kisah-viral-perempuan-derita-kelelahan-kronis.jpg"
 categories:
-  - "corona"
+  - "psikologi"
 tags:
   - "fenomena"
   - "corona"

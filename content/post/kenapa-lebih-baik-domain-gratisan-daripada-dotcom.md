@@ -4,7 +4,7 @@ description: "Kenapa sih baiknya kita mikir-mikir lagi kalau mau sewa dotcom?"
 date: "2020-03-23T00:12:41Z"
 thumbnail: "https://www.webdevelopersnotes.com/wp-content/uploads/alternatives-to-dot-com-domain-name-extension.png"
 categories:
-  - "blog"
+  - "teknologi"
 tags:
   - "wordpress"
   - "blogspot"

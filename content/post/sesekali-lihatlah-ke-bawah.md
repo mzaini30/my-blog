@@ -4,7 +4,7 @@ description: "Apakah nggak lelah selalu melihat ke atas?"
 date: "2020-03-28T21:16:17+08:00"
 thumbnail: "https://zforzulham.files.wordpress.com/2015/01/renungan.jpg"
 categories:
-  - "renungan"
+  - "psikologi"
 tags:
   - "kehidupan"
   - "renungan"

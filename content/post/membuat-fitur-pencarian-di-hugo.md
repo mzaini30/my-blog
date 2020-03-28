@@ -4,7 +4,7 @@ description: "Ini adalah cara membuat pencarian di Hugo"
 date: "2020-03-19T22:49:01+08:00"
 thumbnail: "https://gohugo.io/img/hugo-logo.png"
 categories:
-  - "cari"
+  - "hugo"
 tags:
   - "cari"
   - "fitur"

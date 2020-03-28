@@ -4,7 +4,7 @@ description: "Apakah kita adalah orang yang selalu mikir-mikir kalau mau berbuat
 date: "2020-03-27T17:00:05+08:00"
 thumbnail: "https://media.salon.com/2013/11/present.jpg"
 categories:
-  - "kebaikan"
+  - "psikologi"
 tags:
   - "zakat"
   - "kebaikan berbagi"

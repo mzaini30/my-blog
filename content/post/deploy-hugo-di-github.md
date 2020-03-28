@@ -4,7 +4,7 @@ description: "Ini adalah cara deploy Hugo di Github"
 date: "2020-03-28T11:59:43+08:00"
 thumbnail: "https://png.icons8.com/color/1600/github"
 categories:
-  - "github"
+  - "hugo"
 tags:
   - "github"
   - "deploy"
